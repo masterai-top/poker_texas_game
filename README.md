@@ -1,7 +1,48 @@
 # 🎮 Mã Nguồn Poker Texas Hold'em Hoàn Chỉnh
 
 ## Hệ Thống Club Poker Trực Tuyến | Alliance | MTT/SNG | Đa Nền Tảng
+# 🃏 Texas Hold'em Poker Club Server – Unity + C++
 
+**Complete, high-performance Texas Hold'em poker server with Unity client. Production-ready for online poker clubs, private tables, and tournaments (MTT/SNG). Supports 6+ poker variants.**
+
+[![Stars](https://img.shields.io/github/stars/masterai-top/texas-holdem-poker-club-server?style=social)](https://github.com/masterai-top/texas-holdem-poker-club-server)
+[![Forks](https://img.shields.io/github/forks/masterai-top/texas-holdem-poker-club-server?style=social)](https://github.com/masterai-top/texas-holdem-poker-club-server)
+[![License](https://img.shields.io/badge/license-Custom-blue)](LICENSE)
+[![C++](https://img.shields.io/badge/C++-98.1%25-blue)](https://isocpp.org/)
+[![Unity](https://img.shields.io/badge/Unity-Client-black)](https://unity.com/)
+
+---
+
+## ✨ Key Features
+
+- 🎮 **Full poker club system** – Club management, alliance system, private tables
+- 🏆 **Tournament engine** – MTT (Multi-Table Tournaments) & SNG (Sit & Go)
+- 🃏 **6+ poker variants** – Texas Hold'em, Short Deck (6+), Omaha, Pineapple, Crazy Pineapple, All-In or Fold (AOF)
+- 🌍 **Cross-platform** – iOS, Android, Web, H5 via Unity
+- ⚡ **High-performance C++ server** – Supports large concurrency, real-time multiplayer
+- 📊 **Ranking & shop** – Leaderboards, item store, multi-language support
+
+## 🧩 Tech Stack
+
+| Component | Technology |
+|-----------|------------|
+| Client | Unity (C#) |
+| Server | C++ (Tars framework based) |
+| Protocol | Tars |
+| Deployment | Linux / Windows |
+
+## 🚀 Quick Start (Server)
+
+```bash
+# Clone repository
+git clone https://github.com/masterai-top/texas-holdem-poker-club-server.git
+cd texas-holdem-poker-club-server
+
+# Compile (example for Linux)
+make
+
+# Run server
+./PushServer
 Một giải pháp Poker Texas Hold'em hoàn chỉnh đã được kiểm chứng qua vận hành thực tế trong nhiều năm.
 
 Hỗ trợ đầy đủ các chức năng dành cho nền tảng Poker hiện đại:
